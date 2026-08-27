@@ -1,4 +1,4 @@
-name: Build Privacy Screen APK
+name: Build Privacy Screen APK Ver.1
 
 on:
   workflow_dispatch:
